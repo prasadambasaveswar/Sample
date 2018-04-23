@@ -1,4 +1,4 @@
 <?php
-echo "Helloworld -Build 3 \n";
 echo gethostname();
+echo "Helloworld -Build 4 Autobuild \n";
 ?>
