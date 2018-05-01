@@ -1,1 +1,4 @@
-?php echo "POD NAME"; echo "\n"; echo gethostname();?
+<?php
+echo "POD NAME";
+echo gethostname();
+?>
