@@ -1,4 +1,4 @@
 <?php
-echo "POD NAME";
+echo "POD NAME is - ";
 echo gethostname();
 ?>
