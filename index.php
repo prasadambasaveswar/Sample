@@ -1,8 +1,10 @@
 <html>
   <body aligh="center" width="100%">
   <table width="100%"><img align="center" src="http://www.osius.com/wp-content/themes/osius/images/logo.png"/> 
-    <marquee><h1><?php echo "THIS IS TESTING OF <i><u>AU</u></i> BUILDING";?></h1></marquee>
+    <color>
+    <marquee><h1><?php echo "THIS IS TESTING OF <font color="RED"> AUTOMATE </font> BUILDING";?></h1></marquee>
 <?php echo "\n"; ?>
     </table>
 </body>
 </html>
+ 
